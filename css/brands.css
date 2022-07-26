@@ -229,7 +229,7 @@ button:hover,
 /* Github */
 .button.button-github {
 	color: #ffffff;
-	background-color: #6d1a1a;
+	background-color: #6e5494;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -576,7 +576,7 @@ button:hover,
 /* Website 2 */
 .button.button-site {
 	color: #ffffff;
-	background-color: #ac9d18;
+	background-color: #0066ff;
 }
 .button.button-site:hover,
 .button.button-site:focus {
