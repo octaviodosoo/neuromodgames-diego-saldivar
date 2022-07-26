@@ -563,13 +563,23 @@ button:hover,
 	filter: brightness(90%);
 }
 
-/* Website */
+/* Website 
 .button.button-web {
 	color: #ffffff;
 	background-color: #000000;
 }
 .button.button-web:hover,
 .button.button-web:focus {
+	filter: brightness(90%);
+}*/
+
+/* Website 2 */
+.button.button-web2 {
+	color: #ffffff;
+	background-color: #ac9d18;
+}
+.button.button-web2:hover,
+.button.button-web2:focus {
 	filter: brightness(90%);
 }
 
