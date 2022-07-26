@@ -616,7 +616,7 @@ button:hover,
 /* YouTube */
 .button.button-yt {
 	color: #ffffff;
-	background-color: #000000;
+	background-color: #ff0000;
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
